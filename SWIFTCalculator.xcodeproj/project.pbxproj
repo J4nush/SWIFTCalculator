@@ -14,6 +14,9 @@
 		3FCB2CF72ACC648E00204795 /* SWIFTCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB2CF62ACC648E00204795 /* SWIFTCalculatorTests.swift */; };
 		3FCB2D012ACC648E00204795 /* SWIFTCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB2D002ACC648E00204795 /* SWIFTCalculatorUITests.swift */; };
 		3FCB2D032ACC648E00204795 /* SWIFTCalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB2D022ACC648E00204795 /* SWIFTCalculatorUITestsLaunchTests.swift */; };
+		3FCB2D122ACC664C00204795 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB2D112ACC664C00204795 /* SwiftUIView.swift */; };
+		3FCB2D182ACC6CF200204795 /* ActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB2D172ACC6CF200204795 /* ActionButton.swift */; };
+		3FCB2D1A2ACC6D2100204795 /* CalculatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB2D192ACC6D2100204795 /* CalculatorButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		3FCB2CFC2ACC648E00204795 /* SWIFTCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SWIFTCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FCB2D002ACC648E00204795 /* SWIFTCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SWIFTCalculatorUITests.swift; sourceTree = "<group>"; };
 		3FCB2D022ACC648E00204795 /* SWIFTCalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SWIFTCalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3FCB2D112ACC664C00204795 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		3FCB2D172ACC6CF200204795 /* ActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButton.swift; sourceTree = "<group>"; };
+		3FCB2D192ACC6D2100204795 /* CalculatorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +104,9 @@
 				3FCB2CE72ACC648D00204795 /* ContentView.swift */,
 				3FCB2CE92ACC648E00204795 /* Assets.xcassets */,
 				3FCB2CEB2ACC648E00204795 /* Preview Content */,
+				3FCB2D112ACC664C00204795 /* SwiftUIView.swift */,
+				3FCB2D172ACC6CF200204795 /* ActionButton.swift */,
+				3FCB2D192ACC6D2100204795 /* CalculatorButton.swift */,
 			);
 			path = SWIFTCalculator;
 			sourceTree = "<group>";
@@ -259,6 +268,9 @@
 			files = (
 				3FCB2CE82ACC648D00204795 /* ContentView.swift in Sources */,
 				3FCB2CE62ACC648D00204795 /* SWIFTCalculatorApp.swift in Sources */,
+				3FCB2D122ACC664C00204795 /* SwiftUIView.swift in Sources */,
+				3FCB2D182ACC6CF200204795 /* ActionButton.swift in Sources */,
+				3FCB2D1A2ACC6D2100204795 /* CalculatorButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
